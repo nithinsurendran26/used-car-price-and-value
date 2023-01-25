@@ -1,6 +1,6 @@
 <h1>Used Car Price and Value! 🥳 🚀</h1>
 
-<h3>OVERVIEW • PROBLEM STATEMENT • APPROACH • SUMMARY• NEXT STEPS• NOTEBOOK LINK</h2>
+<h3>OVERVIEW • PROBLEM STATEMENT • APPROACH • SUMMARY</h2>
 
 
 <h3>Overview</h3>
